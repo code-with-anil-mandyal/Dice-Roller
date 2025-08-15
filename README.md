@@ -13,7 +13,12 @@ Perfect as a beginner-friendly Flutter project to learn UI building and state ma
 ---
 
 ## 📸 Demo
-*(Optional: Add a GIF or screenshot here)*
+<img 
+    src="https://github.com/user-attachments/assets/afd3c582-7f16-45ba-8550-4a1835956be7" 
+    alt="Simulator Screenshot - iPhone 16 Pro" 
+    width="300"
+/>
+
 
 ---
 
